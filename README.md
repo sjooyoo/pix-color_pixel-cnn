@@ -3,7 +3,8 @@
 paper link: [here](https://arxiv.org/abs/1705.07208)
 
 PixColor is a state-of-the-art colorization method. It is able to produce multiple versions of colored images when given a single black and white image input.
-A slight drawback can be that the two main networks require separate training. Also as you can already infer from the image below, it is a bit heavy(hard-core) and is trained with the aid of 8(!) GPUs. 거지에게 지피유를 달라 엉엉 ㅠㅠ
+A slight drawback can be that the two main networks require separate training. Also as you can already infer from the image below, it is a bit heavy(hard-core) and is trained with the aid of 8(!) GPUs.
+거지에게 지피유를 달라 엉엉 ㅠ
 
 ![network architecture](images/model_arch.png)
 
